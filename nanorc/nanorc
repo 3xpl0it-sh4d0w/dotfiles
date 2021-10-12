@@ -1,0 +1,20 @@
+set mouse
+set locking
+unset nohelp
+set nonewlines 
+set linenumbers
+set multibuffer
+set suspendable
+set constantshow 
+set statuscolor cyan
+set functioncolor white
+set errorcolor white,red
+set keycolor white,black
+set titlecolor white,black
+set numbercolor white,black
+set selectedcolor white,cyan
+
+include "/usr/share/nano/*.nanorc"
+include "/usr/share/nano/html.nanorc"
+include "/usr/share/nano/python.nanorc"
+include "/usr/share/nano/sh.nanorc"
