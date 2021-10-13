@@ -1,4 +1,3 @@
-<h1 align="center">NANORC CONFIGURATION FILE</h1>
 <p align="center">
 🇬🇧 This is the configuration file for the NANO Editor. <br>
 🇫🇷 Ceci est le fichier de configuration concernant l'Éditeur NANO.
