@@ -1,6 +1,5 @@
 set mouse
 set locking
-unset nohelp
 set nonewlines 
 set linenumbers
 set multibuffer
@@ -13,6 +12,8 @@ set keycolor white,black
 set titlecolor white,black
 set numbercolor white,black
 set selectedcolor white,cyan
+
+unset nohelp
 
 include "/usr/share/nano/*.nanorc"
 include "/usr/share/nano/html.nanorc"
